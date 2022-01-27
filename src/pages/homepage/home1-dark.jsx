@@ -9,8 +9,7 @@ import VideoWithTestimonials from "../../components/Video-with-testimonials/vide
 import SkillsCircle from "../../components/Skills-circle/skills-circle";
 import Clients from "../../components/Clients/clients";
 import Blogs1 from "../../components/blogs/Blogs1/blogs1";
-import particlesBlackConfig from "../../config/pr-s-black";
-import Particles from "react-tsparticles";
+
 
 import CallToAction from "../../components/Call-to-action/call-to-action";
 import Footer from "../../components/Footer/footer";
