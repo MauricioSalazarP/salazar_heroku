@@ -17,7 +17,7 @@ const AboutUs = () => {
               </h3>
               <p>{AboutUs1Date.content}</p>
               <a href="#0" className="butn bord curve mt-30">
-                <span>Read More</span>
+                <span>Saber mas..</span>
               </a>
             </div>
           </div>

@@ -9,28 +9,28 @@ const Footer = ({ hideBGCOLOR }) => {
           <div className="col-lg-4">
             <div className="item md-mb50">
               <div className="title">
-                <h5>Contact Us</h5>
+                <h5>Contacto</h5>
               </div>
               <ul>
                 <li>
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
-                    <h6>Officeal Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                    <h6>Ubicacion</h6>
+                    <p>Bogota, Colombia - Villavicencio, Meta</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <p>publicacionessalazar@gmail.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
-                    <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <h6>Llamanos</h6>
+                    <p>+57 311 5083449</p>
                   </div>
                 </li>
               </ul>
@@ -96,8 +96,8 @@ const Footer = ({ hideBGCOLOR }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2021, Vie Template. Made with passion by
-                  <a href="#0">ThemesCamp</a>.
+                  © 2022, . Hecho con Pasion por 
+                  <a href="#0">Publicaciones Salazar</a>.
                 </p>
               </div>
             </div>

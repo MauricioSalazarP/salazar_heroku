@@ -2,20 +2,20 @@
     {
         "id": 1,
         "icon": "pe-7s-paint-bucket",
-        "title": "Graphic Design",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "title": "Diseño Grafico",
+        "content": "Diseñamos sus piezas Publicitarias, logos e imagen como marca  "
     },
     {
         "id": 2,
         "icon": "pe-7s-phone",
-        "title": "Web & Mobile Design",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+        "title": "Desarrollo Web & Movil",
+        "content": "Desarrollamos soluciones tanto moviles como web para su emprendimiento o empresa."
     },
     {
         "id": 3,
         "icon": "pe-7s-display1",
-        "title": "Social Media Marketing",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+        "title": "Marketing y SEO",
+        "content": "Creamos sus campañas, posisionamos su marca y le damos alcance segun el foco de atencion que requiera."
     },
     {
         "id": 4,
