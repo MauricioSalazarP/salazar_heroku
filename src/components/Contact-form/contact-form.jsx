@@ -8,7 +8,7 @@ const ContactForm = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="form md-mb50">
-              <h4 className="fw-700 color-font mb-50">Get In Touch.</h4>
+              <h4 className="fw-700 color-font mb-50">Deja tu mensaje</h4>
 
               <form id="contact-form" method="post" action="contact.php">
                 <div className="messages"></div>
@@ -45,7 +45,7 @@ const ContactForm = () => {
                   </div>
 
                   <button type="submit" className="butn bord">
-                    <span>Send Message</span>
+                    <span>Enviar Mensage</span>
                   </button>
                 </div>
               </form>
@@ -53,7 +53,7 @@ const ContactForm = () => {
           </div>
           <div className="col-lg-5 offset-lg-1">
             <div className="cont-info">
-              <h4 className="fw-700 color-font mb-50">Contact Info.</h4>
+              <h4 className="fw-700 color-font mb-50">Informacion de Contacto</h4>
               <h3 className="wow" data-splitting>
                 {ContactFromDate.title}
               </h3>

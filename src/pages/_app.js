@@ -183,7 +183,7 @@ Pace.on("done", function () {
   return (
     <>
       <Head>
-        <title>Vie</title>
+        <title>Publicaciones Salazar</title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
       <div className="mouse-cursor cursor-outer"></div>

@@ -20,9 +20,9 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="Vie - Onepage Multi-Purpose HTML5 Template"
+            content="Publicaciones Salazar"
           />
-          <meta name="author" content="" />
+          <meta name="Salazar" content="salazar" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
           <link
             href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
