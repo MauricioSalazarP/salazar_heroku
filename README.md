@@ -20,7 +20,12 @@ npm run dev
 # or
 yarn dev
 ```
+```
+Deploy Heroku
 
+git push main 
+git push heroku main 
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/homepage/home(styleNumber).jsx`. The page auto-updates as you edit the file.
